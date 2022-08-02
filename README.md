@@ -1,1 +1,1 @@
-# BPI-BIT-V2-Doc
+# BPI-BIT-Lite-Doc
